@@ -7,7 +7,7 @@ Hey! I'm Al-amin Hasan. I'm a Professional Full-Stack Web Developer and Programm
 
 
 
-Skills: HTML5 / CSS3 / Tailwind /Sass / JavaScript / React /Node.js / Python / Django.
+### Skills: HTML5 / CSS3 / Tailwind /Sass / JavaScript / React /Node.js / Python / Django.
 
 - 🌱 I’m currently learning Python Advance, AI, ML. 
 - 💬 Ask me about Python, Django, JavaScript, React 
